@@ -36,7 +36,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| O site deve ser publicado em um ambiente acessível publicamente na Internet (Repl.it, GitHub Pages, Heroku) | MÉDIA | 
 |RNF-002| O site deve ser protegido contra malwares e trojans | ALTA | 
-|RNF-003| 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
@@ -59,7 +58,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
+|01| O projeto deverá ser entregue até o final do semestre, 12/07/23 |
 |02| Não pode ser desenvolvido um módulo de backend        |
 
 
